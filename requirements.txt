@@ -4,3 +4,4 @@ numpy
 opencv-python
 xhtml2pdf
 werkzeug
+gunicorn
