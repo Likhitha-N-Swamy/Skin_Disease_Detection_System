@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+
+# Model files (very large – do NOT upload)
+models/*.h5
+models/*.pb
+models/checkpoints/
+
+# VS Code stuff
+.vscode/
